@@ -1,0 +1,2 @@
+# AstolfoBot [![Discord](https://discordbots.org/api/bots/382725233695522816/embed.png)](https://discord.gg/gzPtR34)
+Hi! I am Astolfo, a Discord Bot made in the [JDA](https://github.com/DV8FromTheWorld/JDA) library.
